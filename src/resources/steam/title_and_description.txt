@@ -1,0 +1,17 @@
+TITLE
+-----
+
+Futura Font
+
+
+DESCRIPTION
+-----------
+
+[h1]Mod Description[/h1]
+This mod changes the interface fonts to "Futura".
+
+[h1]Ironman[/h1]
+This mod is Ironman compatible.
+
+
+
