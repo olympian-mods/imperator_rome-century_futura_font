@@ -1,8 +1,8 @@
 name="Futura Font"
-supported_version="1"
 tags={
 	"Interface"
 	"Ironman Compatible"
 }
-path="mod/futurafont"
+supported_version="2.*"
+path="C:/Users/user/Documents/Paradox Interactive/Imperator/mod/futurafont"
 remote_file_id="1877926407"
